@@ -7,7 +7,7 @@ These instructions will get you a copy of the script up and running on your loca
 
 ### Prerequisites
 
-1. **Install [Python 3.7 or greater](https://www.python.org/downloads/)**.
+1. **Install [Python 3.7 - 3.9 or greater](https://www.python.org/downloads/)**.
 2. **Install [Git](https://git-scm.com/downloads)**.
 
 ### Installation and execution
